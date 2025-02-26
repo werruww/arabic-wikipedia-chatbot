@@ -1,3 +1,13 @@
+
+from
+
+https://huggingface.co/spaces/victor/wikipedia-chatbot
+
+thank you victor
+
+
+
+
 ---
 title: Wikipedia Chatbot
 emoji: 🔍
