@@ -38,3 +38,18 @@ thumbnail: >-
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+
+
+
+
+
+تشغيل دوكر فى ورك اسبيس
+codespace
+
+
+
+docker run -it -p 7860:7860 --platform=linux/amd64 \
+    registry.hf.space/victor-wikipedia-chatbot:latest python app.py
+
